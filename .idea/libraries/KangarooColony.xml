@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="KangarooColony">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/KangarooColony.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
